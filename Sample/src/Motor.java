@@ -1,4 +1,4 @@
-
+//This is the Motor part of the code! 
 public class Motor {
 	
 	private double maxSpeed;
