@@ -10,10 +10,7 @@ public class BasicRobot {
 		
 	}
 	
-	/**
-	 * Constructor with name
-	 * @param name
-	 */
+	
 	public BasicRobot (String name) {
 		this.name = name;
 	}
