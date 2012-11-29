@@ -1,7 +1,7 @@
 
 public class BasicRobot {
 	
-	private String name;
+	private String name;		// LEL
 	
 	/**
 	 * 	Default Constructor
