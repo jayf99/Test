@@ -5,7 +5,7 @@ public class BasicRobot {
 	
 	/**
 	 * 	Default Constructor
-	 * testtt
+	 * test
 	 */
 	public BasicRobot () {
 		
