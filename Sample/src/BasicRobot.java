@@ -5,15 +5,13 @@ public class BasicRobot {
 	
 	/**
 	 * 	Default Constructor
+	 * testttt
 	 */
 	public BasicRobot () {
 		
 	}
 	
-	/**
-	 * Constructor with name
-	 * @param name
-	 */
+	
 	public BasicRobot (String name) {
 		this.name = name;
 	}
