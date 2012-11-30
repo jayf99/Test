@@ -7,7 +7,7 @@ public class BasicRobot {
 	 * 	Default Constructor
 	 */
 	public BasicRobot () {
-		
+		Boolean test = false;
 	}
 	
 	/**
